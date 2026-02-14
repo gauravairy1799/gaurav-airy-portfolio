@@ -2,41 +2,67 @@
 
 MSc Data Analytics student at **Queen’s University Belfast** with **3.7+ years of industry experience** delivering data-driven automation, integrations, and analytical insights across enterprise environments.
 
-This portfolio showcases selected **data analysis, machine learning, and forecasting projects** demonstrating practical problem-solving, statistical thinking, and business impact.
+This portfolio presents selected **data analysis, machine learning, and forecasting projects** demonstrating practical problem-solving, statistical reasoning, and real-world business impact.
 
 ---
 
 ## Featured Projects
 
-### 1. Customer / Housing Clustering Analysis
-- Applied **K-Means and Hierarchical Clustering** to segment data patterns.
-- Performed **EDA, feature scaling, PCA visualisation, and silhouette analysis**.
-- Delivered interpretable clusters supporting **data-driven decision making**.
+### 1️⃣ Bike Rental Usage Analysis & Outlier Investigation
+Exploratory data analysis and SQL-based investigation of bike rental behaviour to uncover **peak usage patterns, user differences, and long-duration anomalies** that inform operational decision-making.
 
-🔗 [View Repository](#)
+**Key highlights:**
+- Peak hourly demand analysis  
+- Rental duration comparison across user types  
+- Detection of long-duration rentals using statistical thresholds  
+- SQL-based anomaly investigation with visual insights  
 
----
-
-### 2. Energy Trading Forecasting Model
-- Built **time-series and regression models** to predict market movements.
-- Engineered domain-specific features and evaluated **PnL-based performance**.
-- Produced **visual dashboards and performance diagnostics**.
-
-🔗 [View Repository](#)
+🔗 **Repository:**  
+<https://github.com/gauravairy1799/qub-bike-rental-usage-analysis>
 
 ---
 
 ## Technical Skills
 
-**Languages & Data:** Python, SQL, pandas, NumPy, scikit-learn  
-**Visualisation:** matplotlib, seaborn, dashboards  
-**Methods:** Regression, Clustering, Feature Engineering, Statistical Analysis  
-**Tools:** Jupyter, Git, VS Code  
+**Programming & Data:**  
+Python, SQL, pandas, NumPy  
+
+**Data Analysis:**  
+Exploratory Data Analysis, Outlier Detection, Statistical Investigation  
+
+**Visualisation:**  
+Matplotlib, Seaborn  
+
+**Tools & Environment:**  
+Jupyter Notebook, Git, GitHub  
+
+---
+
+## Upcoming Projects
+
+The portfolio will expand with:
+
+- **Machine Learning / Regression modelling**
+- **Time-series forecasting and demand prediction**
+- Additional real-world analytical case studies
+
+---
+
+## About Me
+
+I combine **industry Salesforce consulting experience** with **advanced data analytics training** to build solutions that translate complex data into **clear, actionable business insights**.
+
+I am actively seeking **Data Analyst internship opportunities in the UK** where I can contribute analytical thinking, technical skills, and practical problem-solving.
 
 ---
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/gaurav-airy-5b91b8193  
-- Email: gauravairy1799@gmail.com  
-- Location: Belfast, UK
+**LinkedIn:**  
+https://www.linkedin.com/in/gaurav-airy-5b91b8193  
+
+**Email:**  
+gauravairy1799@gmail.com  
+
+**Location:**  
+Belfast, United Kingdom
