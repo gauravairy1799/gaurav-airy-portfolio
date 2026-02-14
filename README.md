@@ -1,8 +1,26 @@
+## About Me
+
+I combine **industry Salesforce consulting experience** with **advanced data analytics training** to build solutions that translate complex data into **clear, actionable business insights**.
+
+I am actively seeking **Data Analyst internship opportunities in the UK** where I can contribute analytical thinking, technical skills, and practical problem-solving.
+
+---
+
+## Contact
+
+**LinkedIn:**  
+https://www.linkedin.com/in/gaurav-airy-5b91b8193  
 # Gaurav Singh Airy — Data Analytics Portfolio
 
 MSc Data Analytics student at **Queen’s University Belfast** with **3.7+ years of industry experience** delivering data-driven automation, integrations, and analytical insights across enterprise environments.
 
-This portfolio presents selected **data analysis, machine learning, and forecasting projects** demonstrating practical problem-solving, statistical reasoning, and real-world business impact.
+---
+
+## About Me
+
+I combine **industry Salesforce consulting experience** with **advanced data analytics training** to build solutions that translate complex data into **clear, actionable business insights**.
+
+I am actively seeking **Data Analyst internship opportunities in the UK** where I can contribute analytical thinking, technical skills, and practical problem-solving.
 
 ---
 
@@ -40,19 +58,9 @@ Jupyter Notebook, Git, GitHub
 
 ## Upcoming Projects
 
-The portfolio will expand with:
-
-- **Machine Learning / Regression modelling**
-- **Time-series forecasting and demand prediction**
-- Additional real-world analytical case studies
-
----
-
-## About Me
-
-I combine **industry Salesforce consulting experience** with **advanced data analytics training** to build solutions that translate complex data into **clear, actionable business insights**.
-
-I am actively seeking **Data Analyst internship opportunities in the UK** where I can contribute analytical thinking, technical skills, and practical problem-solving.
+- Machine Learning / Regression modelling  
+- Time-series forecasting and demand prediction  
+- Additional real-world analytical case studies  
 
 ---
 
@@ -60,6 +68,12 @@ I am actively seeking **Data Analyst internship opportunities in the UK** where 
 
 **LinkedIn:**  
 https://www.linkedin.com/in/gaurav-airy-5b91b8193  
+
+**Email:**  
+gauravairy1799@gmail.com  
+
+**Location:**  
+Belfast, United Kingdom
 
 **Email:**  
 gauravairy1799@gmail.com  
